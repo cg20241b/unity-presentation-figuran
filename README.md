@@ -18,10 +18,3 @@ Bullets fired at objects such as iron will produce a splash effect to add a real
 ### d. Flamethrower (Optional)  
 We will simulate a continuous stream of fire effect projected from the weapon's nozzle.  
 [Watch the effect](https://www.youtube.com/watch?v=IY2K2cOE0R8)
-
----
-e a more immersive gaming experience in the Unity 3D game project by developing a realistic gun effect system. Our main focus is on the detailed visual implementation of:
-- Muzzle Flash Effect  
-- Fired Bullets  
-- Impact Effect  
-- Flamethrower (optional)
